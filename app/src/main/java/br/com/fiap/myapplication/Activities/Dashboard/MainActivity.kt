@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.tooling.preview.Preview
 import br.com.fiap.myapplication.R
+import com.google.accompanist.systemuicontroller.rememberSystemUiController
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -28,6 +29,8 @@ class MainActivity : ComponentActivity() {
 @Composable
 @Preview
 fun DashboardScreen() {
+    val systemUiController = rememberSystemUiController()
+    systemUiController.setStatusBarColor(color = colorResource(id = R.color.blue))
     Scaffold(
         bottomBar = { MyBottomBar() }
     ) { paddingValues ->
@@ -36,6 +39,8 @@ fun DashboardScreen() {
                 .fillMaxSize()
                 .background(color = colorResource(R.color.lightBlue))
                 .padding(paddingValues = paddingValues)
-        ) { }
+        ) {
+            item { TopBar() }
+        }
     }
 }
