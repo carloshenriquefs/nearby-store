@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_sample.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/sample.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/xml_backup_rules.xml.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_btn_1.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/btn_1.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_btn_2.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/btn_2.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_btn_3.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/btn_3.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_profile.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/profile.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_arrow.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_building.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/building.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_btn_2.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/btn_2.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_medal.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/medal.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_sample.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/sample.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_arrow.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/arrow.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_btn_3.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/btn_3.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_back.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/back.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_btn_2.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/btn_2.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_medal.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/medal.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_wallet.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/wallet.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_search_icon.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_sample.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/sample.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_btn_3.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/btn_3.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_wallet.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/wallet.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_building.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/building.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_btn_1.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/btn_1.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_back.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_medal.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/medal.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_back.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_building.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/building.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_btn_3.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/btn_3.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_building.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/building.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_location.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/location.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_btn_2.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/btn_2.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_sample.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/sample.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_profile.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_btn_2.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/btn_2.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_btn_4.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/btn_4.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_medal.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/medal.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_search_icon.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/search_icon.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_back.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_location.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/location.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_btn_3.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/btn_3.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_wallet.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/wallet.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_sample.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/sample.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_arrow.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/arrow.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_location.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/location.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/xml_data_extraction_rules.xml.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_profile.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/profile.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_location.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/location.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_btn_4.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/btn_4.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_wallet.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/wallet.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_arrow.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/arrow.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_search_icon.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/search_icon.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_search_icon.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_btn_2.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/btn_2.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_btn_1.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/btn_1.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_arrow.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/arrow.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_back.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/back.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_medal.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/medal.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_btn_1.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/btn_1.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_btn_3.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/btn_3.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_sample.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/sample.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_search_icon.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/search_icon.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_location.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/location.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_btn_4.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/btn_4.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_btn_4.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/btn_4.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_btn_4.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/btn_4.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_medal.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/medal.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_arrow.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/arrow.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-hdpi_search_icon.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-hdpi/search_icon.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_profile.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_btn_4.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/btn_4.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_btn_1.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/btn_1.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_profile.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/profile.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_profile.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/profile.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_location.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/location.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_wallet.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/wallet.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxhdpi_wallet.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxhdpi/wallet.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-ldpi_btn_1.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-ldpi/btn_1.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-mdpi_building.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-mdpi/building.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xxxhdpi_building.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xxxhdpi/building.png"
+    },
+    {
+        "merged": "br.com.fiap.myapplication.app-debug-59:/drawable-xhdpi_back.png.flat",
+        "source": "br.com.fiap.myapplication.app-main-61:/drawable-xhdpi/back.png"
+    }
+]

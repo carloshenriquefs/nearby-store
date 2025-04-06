@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825699854684",
+    "project_id": "nearbystore-6d667",
+    "storage_bucket": "nearbystore-6d667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825699854684:android:76ad9b7e6ed34bb82ff999",
+        "android_client_info": {
+          "package_name": "br.com.fiap.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc57nf5jGOM66_DWfOIev8kl-JjjPlKWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color darkBrown
+color grey
+color lightBlue
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable arrow
+drawable back
+drawable btn_1
+drawable btn_2
+drawable btn_3
+drawable btn_4
+drawable building
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable location
+drawable medal
+drawable profile
+drawable sample
+drawable search_icon
+drawable wallet
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
