@@ -61,6 +61,7 @@ dependencies {
     implementation(libs.accompanist.systemuicontroller)
     implementation (libs.maps.compose)
     implementation (libs.play.services.maps)
+    implementation(libs.firebase.database.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
