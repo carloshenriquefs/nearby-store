@@ -19,6 +19,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.tooling.preview.Preview
+import br.com.fiap.myapplication.Domain.BannerModel
 import br.com.fiap.myapplication.Domain.CategoryModel
 import br.com.fiap.myapplication.R
 import br.com.fiap.myapplication.Repository.DashboardRepository
@@ -43,14 +44,24 @@ fun DashboardScreen() {
     val viewModel = DashboardRepository()
 
     val categories = remember { mutableStateListOf<CategoryModel>() }
+    val banners = remember { mutableStateListOf<BannerModel>() }
 
     var showCategoryLoading by remember { mutableStateOf(true) }
+    var showBannerLoading by remember { mutableStateOf(true) }
 
     LaunchedEffect(Unit) {
         viewModel.loadCategory().observeForever {
             categories.clear()
             categories.addAll(it)
             showCategoryLoading = false
+        }
+    }
+
+    LaunchedEffect(Unit) {
+        viewModel.loadBanner().observeForever {
+            banners.clear()
+            banners.addAll(it)
+            showBannerLoading = false
         }
     }
 
@@ -65,6 +76,7 @@ fun DashboardScreen() {
         ) {
             item { TopBar() }
             item { CategorySection(categories, showCategoryLoading) }
+            item { Banner(banners, showBannerLoading) }
         }
     }
 }
