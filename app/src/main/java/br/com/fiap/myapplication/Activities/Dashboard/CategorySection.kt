@@ -1,5 +1,6 @@
 package br.com.fiap.myapplication.Activities.Dashboard
 
+import android.content.Intent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -24,6 +25,8 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.core.content.ContextCompat.startActivity
+import br.com.fiap.myapplication.Activities.Results.ResultsActivity
 import br.com.fiap.myapplication.Domain.CategoryModel
 import br.com.fiap.myapplication.R
 import coil.compose.AsyncImage
@@ -74,7 +77,12 @@ fun CategorySection(
                                 .weight(1f)
                                 .padding(horizontal = 8.dp),
                             onItemClick = {
+                                val intent = Intent(context, ResultsActivity::class.java).apply {
+                                    putExtra("id", categoryModel.Id.toString())
+                                    putExtra("title", categoryModel.Name)
+                                }
 
+                                startActivity(context, intent, null)
                             }
                         )
                     }
