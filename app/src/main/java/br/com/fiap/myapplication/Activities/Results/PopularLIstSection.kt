@@ -1,5 +1,6 @@
 package br.com.fiap.myapplication.Activities.Results
 
+import android.content.Intent
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -33,6 +34,8 @@ import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.core.content.ContextCompat.startActivity
+import br.com.fiap.myapplication.Activities.Map.MapActivity
 import br.com.fiap.myapplication.Domain.StoreModel
 import br.com.fiap.myapplication.R
 import coil.compose.AsyncImage
@@ -94,7 +97,12 @@ fun ItemsPopular(item: StoreModel) {
             .wrapContentSize()
             .background(Color.White, shape = RoundedCornerShape(10.dp))
             .padding(8.dp)
-            .clickable { }
+            .clickable {
+                val intent = Intent(context, MapActivity::class.java).apply {
+                    putExtra("object", item)
+                }
+                startActivity(context, intent, null)
+            }
     ) {
         AsyncImage(
             model = item.ImagePath,
