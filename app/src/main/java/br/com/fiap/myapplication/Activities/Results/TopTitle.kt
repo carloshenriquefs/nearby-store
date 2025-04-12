@@ -42,7 +42,7 @@ fun TopTitle(title: String = "title", onBackClick: () -> Unit = {}) {
                 painter = painterResource(R.drawable.back),
                 contentDescription = null,
                 modifier = Modifier
-                    .clickable { }
+                    .clickable { onBackClick() }
             )
 
             Text(
