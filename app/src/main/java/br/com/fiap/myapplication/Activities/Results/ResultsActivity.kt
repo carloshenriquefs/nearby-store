@@ -18,6 +18,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.tooling.preview.Preview
 import br.com.fiap.myapplication.Domain.CategoryModel
+import br.com.fiap.myapplication.Domain.StoreModel
 import br.com.fiap.myapplication.R
 import br.com.fiap.myapplication.ViewModel.ResultsViewModel
 
@@ -46,13 +47,24 @@ fun ResultList(id: String = "1", title: String = "result", onBackClick: () -> Un
 
     val subCategory = remember { mutableStateListOf<CategoryModel>() }
 
+    val popular = remember { mutableStateListOf<StoreModel>() }
+
     var showsubCategoryLoading by remember { mutableStateOf(true) }
+    var showPopularLoading by remember { mutableStateOf(true) }
 
     LaunchedEffect(Unit) {
         viewModel.loadSubCategory(id).observeForever {
             subCategory.clear()
             subCategory.addAll(it)
             showsubCategoryLoading = false
+        }
+    }
+
+    LaunchedEffect(Unit) {
+        viewModel.loadPopular(id).observeForever {
+            popular.clear()
+            popular.addAll(it)
+            showPopularLoading = false
         }
     }
 
@@ -66,5 +78,6 @@ fun ResultList(id: String = "1", title: String = "result", onBackClick: () -> Un
         }
         item { Search() }
         item { SubCategorySection(subCategory, showsubCategoryLoading) }
+        item { PopularSection(popular, showPopularLoading) }
     }
 }
